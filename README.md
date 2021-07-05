@@ -8,8 +8,8 @@
 ## describtion  
 basic auth
 ## LINKS: 
-- !['github actions'](https://github.com/awwadsaeed/bearer-auth/actions)
-- ![pull request](https://github.com/awwadsaeed/bearer-auth/pull/1)
-- ![heroku app](https://saeed-bearer-auth.herokuapp.com/)
+- ['github actions'](https://github.com/awwadsaeed/bearer-auth/actions)
+- [pull request](https://github.com/awwadsaeed/bearer-auth/pull/1)
+- [heroku app](https://saeed-bearer-auth.herokuapp.com/)
 ## UML:  
 ![latest whiteboard](./whiteboard.JPG)
